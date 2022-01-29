@@ -1,4 +1,4 @@
 print("Enter UserMame > ")
-print("Enter UPassword > ")
+print("Enter Password > ")
 
 print("Loigin!")
