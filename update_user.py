@@ -1,4 +1,4 @@
 print("Update UserName?")
 print("New UserName?")
 
-print()
+print("Updated")
